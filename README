@@ -1,0 +1,104 @@
+ 
+# Roomate BACKEND
+
+```bash
+
+```
+
+```bash
+MONGO_DB_URL= 
+CLOUDINARY_CLOUD_NAME= 
+CLOUDINARY_API_KEY=  
+CLOUDINARY_API_SECRET= 
+
+
+FIREBASE_TYPE= 
+FIREBASE_PROJECT_ID= 
+FIREBASE_PRIVATE_KEY_ID= 
+FIREBASE_PRIVATE_KEY= 
+FIREBASE_CLIENT_EMAIL= 
+FIREBASE_CLIENT_ID= 
+FIREBASE_AUTH_URI= 
+FIREBASE_TOKEN_URI= 
+FIREBASE_AUTH_PROVIDER_X509_CERT_URL= 
+FIREBASE_CLIENT_X509_CERT_URL= 
+FIREBASE_UNIVERSE_DOMAIN= 
+
+
+```
+
+Still need to find some description 
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Configuration](#configuration)
+- [Usage](#usage)
+- [API Documentation](#api-documentation)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+Provide a brief introduction to your project, its purpose, and any other relevant information.
+
+## Features
+
+List key features or functionalities of your project.
+
+- Rooms 
+- ...
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- MongoDB
+- Express js 
+- Cloudnary
+- ....
+
+### Installation
+
+1. Clone the repository.
+   ```bash
+   git clone https://github.com/pavan6476252/roomate-app-backend.git
+   cd your-repository
+   ```
+
+2. Install dependencies.
+   ```bash
+   npm install
+   ```
+
+### Configuration
+
+Provide information about any configuration that needs to be set up, such as environment variables or database connections.
+
+## Usage
+
+Explain how to use your project. Include any important commands, scripts, or steps.
+
+## API Documentation
+
+<!-- For detailed API documentation, refer to the [Online Documentation](https://documenter.getpostman.com/view/12805741/2s9YeBeu3h). -->
+
+## Contributing
+
+Explain how others can contribute to your project. Include information about issues, pull requests, and any contribution guidelines.
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make changes and commit.
+4. Push to your fork and submit a pull request.
+
+## License
+
+This project is licensed under the [UNKOWN] - see the [LICENSE](LICENSE) file for details.
+
+ 
